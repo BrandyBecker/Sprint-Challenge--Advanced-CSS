@@ -297,7 +297,7 @@ footer {
   padding: 1rem;
   border: 1px solid #22283a;
   cursor: pointer;
-  transition: 0.2s;
+  transition: 0.8s;
 }
 .home .walk .walk-text .btn:hover {
   background-color: white;
